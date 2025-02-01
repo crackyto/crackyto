@@ -33,7 +33,7 @@
 ### 🔗 Connect With Me:
 
 - 🐦 Twitter: [@yourTwitter](https://x.com/CryptoAddict31x)
-- 🔗 Medium: [yourLinkedIn](https://medium.com/@cryptoaddict31x)
+- 🔗 Medium: [yourMedium](https://medium.com/@cryptoaddict31x)
   
 
 ⭐ **If you like my work, feel free to give a star to my repositories!** ⭐
